@@ -1,2 +1,2 @@
-# PDFReader
-Reads Walmart PDF and sends the data to WeSplit API to create an order
+# PDFReader (utility for WeSplit)
+Parses Order invoices of Walmart (PDF format) and stores the order items in MongoDB.
